@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Pikcer</string>
+    <string name="choose_image_picking_source">اختر مصدر الصورة</string>
+    <string name="from_camera">من الكاميرا</string>
+    <string name="from_gallery">من المعرض</string>
+</resources>
